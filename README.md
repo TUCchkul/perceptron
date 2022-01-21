@@ -23,6 +23,6 @@ conda activate ./env
 
 ### make a directory command in git bash
 ```
-mkdir Research_end
+mkdir Research_env
 ```
 
